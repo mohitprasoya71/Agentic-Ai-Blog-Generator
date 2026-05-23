@@ -11,7 +11,6 @@ from pathlib import Path
 
 load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 
 # ---- Models ----
